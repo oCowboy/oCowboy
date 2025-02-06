@@ -7,7 +7,7 @@
 
 ## 🛠️ **Sobre Mim**  
 - 🚀 Trabalhando com **FiveM** há **2 anos**  
-- 🌟 Desenvolvedor na **CoreX_Creative** há **1 ano**  
+- 🌟 Desenvolvedor na **CodeX Network** há **1 ano**  
 - 💻 Sempre em busca de novas ideias para criar scripts únicos e funcionais  
 
 ---
